@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Cihat</h1>
-<h2 align="center">Welcome to my page! 🎉</h2>
+<h2 align="center">Welcome to my GitHub profile! 🎉</h2>
 <div align="center">
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
