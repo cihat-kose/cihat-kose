@@ -70,8 +70,8 @@
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/></a>
 	<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="Intellij IDEA" width="40" height="40"/></a>
 	<a href="https://mattermost.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" alt="Mattermost" width="40" height="40"/></a>
-	<a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="40" height="40"/></a>
-	<a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="40" height="40"/></a>
+	<a href="https://slack.com/intl/en-tr/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="40" height="40"/></a>
+	<a href="https://discord.com/" target="_blank" rel="noopener noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="40" height="40"/></a>
 </div>
 </p>
 
