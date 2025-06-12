@@ -15,10 +15,12 @@
 
 <ul>
 <li>🧑‍💻 <strong>ISTQB Certified SDET</strong> with hands-on experience in <strong>manual and automated testing</strong> of web and mobile applications.</li>
-<li>⚖️ Former <strong>Judge</strong> who transitioned into tech, driven by curiosity and a love of solving problems.</li>
-<li>🧠 Strong background in <strong>case management, documentation, and structured decision-making</strong> from both legal and public sector contexts.</li>
-<li>🧭 Currently exploring the intersection of <strong>technology, public service, and diversity</strong> in the Norwegian tech ecosystem.</li>
-<li>🌍 Based in <strong>Trondheim, Norway</strong>, working actively to contribute to inclusive and ethical digital services.</li>
+<li>⚖️ Former <strong>Judge</strong> with a strong foundation in law, ethics, and structured decision-making — now bringing that precision into software quality and public services.</li>
+<li>📚 Academic background in <strong>Sociology</strong> and Law, giving me a deep understanding of both systems and people.</li>
+<li>🧠 Experienced in <strong>case management, documentation, and cross-sector collaboration</strong> in both legal and public contexts.</li>
+<li>🧭 Passionate about the intersection of <strong>technology, public service, and diversity</strong> — aiming to build solutions that matter to people.</li>
+<li>🗣️ Using Norwegian daily in both professional and social settings — confidently communicating in a B2-level working environment.</li>
+<li>🌍 Based in <strong>Trondheim, Norway</strong>, contributing actively to inclusive and ethical digital services.</li>
 </ul>
 
 <hr>
