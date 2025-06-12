@@ -125,11 +125,29 @@
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cihat-kose&theme=react&utcOffset=01" alt="Üretken Zaman"/>
 </p>
 
+<!-- 
+
 <p align="center">
   <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%"/>
 </p>
 
+ -->
+
 <hr>
+
+<h2 align="center">📬 Let's Connect</h2>
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/cihat-kose/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="mailto:cihat.kose@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-0056D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
+	<a href="https://www.postman.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+</p>
+
+<p align="center">
+	Let's connect for collaboration, mentoring, or just to talk about meaningful tech and public service!
+</p>
+
+<!-- 
 
 <h2 align="center">📬 Let's Connect!</h2>
 <p align="center">
@@ -140,6 +158,12 @@
 	<a href="mailto:cihat.kose@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/HOTMAIL-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
+ -->
+
+
 <hr>
 
 <h2 align="center">Keep coding! 💻 Stay awesome! ✨</h2>
+
+<hr>
+
