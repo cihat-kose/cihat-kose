@@ -13,6 +13,37 @@
 
 <h2 align="center">🎤 About Me</h2>
 
+<ul>
+<li>🧑‍💻 <strong>ISTQB Certified SDET</strong> with hands-on experience in <strong>manual and automated testing</strong> of web and mobile applications.</li>
+<li>⚖️ Former <strong>Judge</strong> who transitioned into tech, driven by curiosity and a love of solving problems.</li>
+<li>🧠 Strong background in <strong>case management, documentation, and structured decision-making</strong> from both legal and public sector contexts.</li>
+<li>🧭 Currently exploring the intersection of <strong>technology, public service, and diversity</strong> in the Norwegian tech ecosystem.</li>
+<li>🌍 Based in <strong>Trondheim, Norway</strong>, working actively to contribute to inclusive and ethical digital services.</li>
+</ul>
+
+<hr>
+
+<h2 align="center">🏛️ Public Sector Experience</h2>
+
+<ul>
+  <li><strong>Trainee Testansvarlig @ Skatteetaten</strong> (via Karrierekraft, 2024–2025): UI test automation using Playwright and TypeScript, test planning, Postman/API, accessibility (WCAG), and security (OWASP) testing.</li>
+  <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Responsible for legal reasoning, case management, structured decision-making, and public legal service delivery.</li>
+  <li><strong>Military Prosecutor – Turkish Armed Forces</strong> (2012–2013): Led investigations and represented the military prosecution in various criminal cases.</li>
+</ul>
+
+<hr>
+
+<h2 align="center">🤝 Mentorship & Community Involvement</h2>
+
+<ul>
+  <li><strong>QA Instructor & Mentor @ Techno Study</strong> – Supporting students with Java, Selenium, Agile, and real-world project mentoring.</li>
+  <li><strong>Medgründer @ InTechGrate – Trondheim</strong> – Creating inclusive professional spaces for international tech talent in Norway.</li>
+</ul>
+
+<!-- 
+
+<h2 align="center">🎤 About Me</h2>
+
 - 🧑‍💻 **ISTQB Certified SDET** with extensive experience in **manual and automated testing** for web-based and mobile applications.
 - 🚀 Proficient in:
   - **Java, Selenium, Playwright, TestNG, Cucumber BDD, Maven, JUnit, Jenkins, Postman, Rest Assured** 
@@ -24,6 +55,8 @@
   - Teamwork  
 - ⚖️ Former **Judge** with a solid background in handling complex cases.  
 - 💡 Passionate about **quality assurance and continuous improvement**.  
+
+ -->
 
 <hr>
 
