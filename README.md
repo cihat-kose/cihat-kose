@@ -39,7 +39,7 @@
 
 <ul>
   <li><strong>QA Instructor & Mentor @ Techno Study</strong> – Supporting students with Java, Selenium, Agile, and real-world project mentoring.</li>
-  <li><strong>Medgründer @ InTechGrate – Trondheim</strong> – Creating inclusive professional spaces for international tech talent in Norway.</li>
+  <li><strong>Co-founder of <a href="https://www.meetup.com/intechgrate/" target="_blank">InTechGrate – Trondheim</a> — organizing inclusive tech meetups and events for international professionals in Norway.</li>
 </ul>
 
 <!-- 
@@ -138,13 +138,12 @@
 <h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/cihat-kose/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-	<a href="mailto:cihat.kose@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/EMAIL-0056D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
 	<a href="https://www.postman.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+	<a href="https://www.meetup.com/intechgrate/" target="_blank"><img src="https://img.shields.io/badge/MEETUP-ED1C40?style=for-the-badge&logo=meetup&logoColor=white"></a>
 </p>
 
 <p align="center">
-	Let's connect for collaboration, mentoring, or just to talk about meaningful tech and public service!
+	Let's connect through community, collaboration, or meaningful tech events!
 </p>
 
 <!-- 
