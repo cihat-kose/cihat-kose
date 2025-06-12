@@ -39,7 +39,7 @@
 
 <ul>
   <li><strong>QA Instructor & Mentor @ Techno Study</strong> – Supporting students with Java, Selenium, Agile, and real-world project mentoring.</li>
-  <li><strong>Co-founder of <a href="https://www.meetup.com/intechgrate/" target="_blank">InTechGrate – Trondheim</a> — organizing inclusive tech meetups and events for international professionals in Norway.</li>
+  <li><strong>Co-founder of <a href="https://www.dataforeningen.no/faggruppe/intechgrate-trondheim/" target="_blank">InTechGrate – Trondheim</a> — organizing inclusive tech meetups and events for international professionals in Norway.</li>
 </ul>
 
 <!-- 
