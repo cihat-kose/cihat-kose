@@ -19,7 +19,7 @@
 <li>📚 Academic background in <strong>Sociology</strong> and Law, giving me a deep understanding of both systems and people.</li>
 <li>🧠 Experienced in <strong>case management, documentation, and cross-sector collaboration</strong> in both legal and public contexts.</li>
 <li>🧭 Passionate about the intersection of <strong>technology, public service, and diversity</strong> — aiming to build solutions that matter to people.</li>
-<li>🗣️ Using Norwegian daily in both professional and social settings — confidently communicating in a B2-level working environment.</li>
+<li>🗣️ Using Norwegian daily in both professional and social settings — confidently communicating in a B1/B2-level working environment.</li>
 <li>🌍 Based in <strong>Trondheim, Norway</strong>, contributing actively to inclusive and ethical digital services.</li>
 </ul>
 
