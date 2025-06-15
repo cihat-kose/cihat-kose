@@ -14,13 +14,13 @@
 <h2 align="center">🎤 About Me</h2>
 
 <ul>
-<li>🧑‍💻 <strong>ISTQB Certified SDET</strong> with hands-on experience in <strong>manual and automated testing</strong> of web and mobile applications.</li>
-<li>⚖️ Former <strong>Judge</strong> with a strong foundation in law, ethics, and structured decision-making — now bringing that precision into software quality and public services.</li>
-<li>📚 Academic background in <strong>Sociology</strong> and Law, giving me a deep understanding of both systems and people.</li>
-<li>🧠 Experienced in <strong>case management, documentation, and cross-sector collaboration</strong> in both legal and public contexts.</li>
-<li>🧭 Passionate about the intersection of <strong>technology, public service, and diversity</strong> — aiming to build solutions that matter to people.</li>
-<li>🗣️ Using Norwegian daily in both professional and social settings — confidently communicating in a B1/B2-level working environment.</li>
-<li>🌍 Based in <strong>Trondheim, Norway</strong>, contributing actively to inclusive and ethical digital services.</li>
+<li>🧑‍💻 <strong>Certified SDET</strong> with hands-on testing experience in web/mobile apps.</li>
+<li>⚖️ Former <strong>Judge</strong> — bringing legal precision into tech and public service.</li>
+<li>📚 Academic background in <strong>Law</strong> and <strong>Sociology</strong> — understanding systems and people.</li>
+<li>🧠 Skilled in <strong>case handling, documentation, and intersectoral collaboration</strong>.</li>
+<li>🧭 Focused on <strong>tech, diversity, and public service</strong> — building solutions that matter.</li>
+<li>🗣️ Daily Norwegian user (B1/B2) in professional and social settings.</li>
+<li>🌍 Living in <strong>Trondheim, Norway</strong> — contributing to inclusive digital services.</li>
 </ul>
 
 <hr>
@@ -28,9 +28,9 @@
 <h2 align="center">🏛️ Public Sector Experience</h2>
 
 <ul>
-  <li><strong>Trainee Testansvarlig @ Skatteetaten</strong> (via Karrierekraft, 2024–2025): UI test automation using Playwright and TypeScript, test planning, Postman/API, accessibility (WCAG), and security (OWASP) testing.</li>
-  <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Responsible for legal reasoning, case management, structured decision-making, and public legal service delivery.</li>
-  <li><strong>Military Prosecutor – Turkish Armed Forces</strong> (2012–2013): Led investigations and represented the military prosecution in various criminal cases.</li>
+  <li><strong>Trainee Testansvarlig @ Skatteetaten</strong> (via Karrierekraft, 2024–2025): Working on UI automation (Playwright + TypeScript), test planning, and supporting Postman/API, WCAG, and OWASP testing.</li>
+  <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making in both criminal and civil courts.</li>
+  <li><strong>Military Prosecutor – Turkish Armed Forces</strong> (2012–2013): Managed investigations and represented military prosecution in criminal trials.</li>
 </ul>
 
 <hr>
@@ -38,8 +38,8 @@
 <h2 align="center">🤝 Mentorship & Community Involvement</h2>
 
 <ul>
-  <li><strong>QA Instructor & Mentor @ Techno Study</strong> – Supporting students with Java, Selenium, Agile, and real-world project mentoring.</li>
-  <li><strong>Co-founder of <a href="https://www.dataforeningen.no/faggruppe/intechgrate-trondheim/" target="_blank">InTechGrate – Trondheim</a> — organizing inclusive tech meetups and events for international professionals in Norway.</li>
+  <li><strong>QA Instructor & Mentor @ Techno Study</strong> – Teaching Java, Selenium, Agile/Scrum, and mentoring real-world QA projects.</li>
+  <li><strong>Co-founder of <a href="https://www.dataforeningen.no/faggruppe/intechgrate-trondheim/" target="_blank">InTechGrate – Trondheim</a></strong> – Hosting inclusive tech events for international professionals in Norway.</li>
 </ul>
 
 <!-- 
