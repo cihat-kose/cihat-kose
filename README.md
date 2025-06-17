@@ -172,6 +172,7 @@
   <a href="https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira" target="_blank"><img src="https://marketplace-cdn.atlassian.com/files/7842850b-2144-4e63-a948-274d9e5accc1?fileType=image&mode=full-fit" alt="Jira Zephyr" width="40" height="40"/></a>
   <a href="https://slack.com/intl/en-tr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="Slack" width="40" height="40"/></a>
   <a href="https://discord.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="40" height="40"/></a>
+  <a href="https://mattermost.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" alt="Mattermost" width="40" height="40"/></a>
 </p>
 
 <hr>
