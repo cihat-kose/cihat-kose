@@ -166,7 +166,7 @@
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/></a>
-  <a href="https://bitbucket.org/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/bitbucket-icon-2048x2048-pbtamsn1.png" alt="Bitbucket" width="40" height="40"/></a>
+  <a href="https://bitbucket.org/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/bitbucket-repository-svn-manage-files-contribute-branch-512.png" alt="Bitbucket" width="40" height="40"/></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/></a>
   <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira" target="_blank"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="Jira Xray" width="40" height="40"/></a>
   <a href="https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira" target="_blank"><img src="https://marketplace-cdn.atlassian.com/files/7842850b-2144-4e63-a948-274d9e5accc1?fileType=image&mode=full-fit" alt="Jira Zephyr" width="40" height="40"/></a>
