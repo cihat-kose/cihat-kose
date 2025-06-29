@@ -14,7 +14,7 @@
 <h2 align="center">🎤 About Me</h2>
 
 <ul>
-<li>🧑‍💻 <strong>Certified SDET</strong> with hands-on testing experience in web/mobile apps.</li>
+<li>🧑‍💻 <strong>ISTQB® Certified SDET</strong> with hands-on testing experience in web/mobile apps.</li>
 <li>⚖️ Former <strong>Judge</strong> — bringing legal precision into tech and public service.</li>
 <li>📚 Academic background in <strong>Law</strong> and <strong>Sociology</strong> — understanding systems and people.</li>
 <li>🧠 Skilled in <strong>case handling, documentation, and intersectoral collaboration</strong>.</li>
