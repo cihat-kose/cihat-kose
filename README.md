@@ -114,8 +114,7 @@
 
 -->
 
-<h2 align="center">🧰 Technologies and Tools</h2>
-<p align="center">🛠️ Tools I use for automation, testing, and development.</p>
+<h2 align="center">🛠️ Tools I use for automation, testing, and development.</h2>
 
 <!-- 🚀 Programming & Test Automation -->
 <h3 align="center">🚀 Programming & Test Automation</h3>
