@@ -28,7 +28,7 @@
 <h2 align="center">🏛️ Public Sector Experience</h2>
 
 <ul>
-  <li><strong>Trainee Testansvarlig @ [Skatteetaten](https://www.skatteetaten.no/min-side/)</strong> (via Karrierekraft, 2024–2025): Working on UI automation (Playwright + TypeScript), test planning, and supporting Postman/API, WCAG, and OWASP testing.</li>
+  <li><strong>Trainee Testansvarlig @ <a href="https://www.skatteetaten.no/min-side/" target="_blank">Skatteetaten</a></strong> (via Karrierekraft, 2024–2025): Working on UI automation (Playwright + TypeScript), test planning, and supporting Postman/API, WCAG, and OWASP testing.</li>
   <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making in both criminal and civil courts.</li>
   <li><strong>Military Prosecutor – Turkish Armed Forces</strong> (2012–2013): Managed investigations and represented military prosecution in criminal trials.</li>
 </ul>
@@ -38,7 +38,7 @@
 <h2 align="center">🤝 Mentorship & Community Involvement</h2>
 
 <ul>
-  <li><strong>QA Instructor & Mentor @ [Techno Study](https://technostudy.com.tr/)</strong> – Teaching Java, Selenium, Agile/Scrum, and mentoring real-world QA projects.</li>
+  <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Teaching Java, Selenium, Agile/Scrum, and mentoring real-world QA projects.</li>
   <li><strong>Co-founder of <a href="https://dataforeningen.no/faggrupper/trondheim/intechgrate" target="_blank">InTechGrate – Trondheim</a></strong> – Hosting inclusive tech events for international professionals in Norway.</li>
 </ul>
 
