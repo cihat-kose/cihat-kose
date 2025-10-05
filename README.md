@@ -13,10 +13,10 @@
 <h2 align="center">🎤 About Me</h2>
 
 <ul>
-<li>🧑‍💻 <strong>ISTQB® Certified QA</strong> currently working as <strong>Testansvarlig @ Skatteetaten (Mo i Rana)</strong> — focusing on public sector quality assurance and test automation.</li>
+<li>🧑‍💻 <strong>ISTQB® Certified QA</strong> with hands-on testing experience in the Norwegian public sector.</li>
 <li>⚖️ Former <strong>Judge</strong> — bringing legal precision into tech and public service.</li>
 <li>📚 Background in <strong>Law</strong> and <strong>Sociology</strong> — understanding both systems and people.</li>
-<li>🧩 Skilled in <strong>test automation, documentation, and interdisciplinary collaboration</strong>.</li>
+<li>🧩 Skilled in <strong>test automation, documentation</strong>, and interdisciplinary collaboration.</li>
 <li>💡 Passionate about <strong>tech, inclusion, and public value</strong> — building solutions that matter.</li>
 <li>🗣️ Daily Norwegian user (B1/B2) in professional and social contexts.</li>
 <li>📍 Based in <strong>Mo i Rana, Norway</strong> — contributing to inclusive and secure digital services.</li>
@@ -27,13 +27,24 @@
 <h2 align="center">🏛️ Public Sector Experience</h2>
 
 <ul>
-  <li><strong>Testansvarlig @ <a href="https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/" target="_blank">Skatteetaten</a></strong> (2025– ): Working in the <em>Fremtidens Innkreving</em> program. Responsible for test planning, functional and exploratory testing, and ensuring the quality of new digital solutions.</li>
-
-  <li><strong>Trainee Testansvarlig @ <a href="https://www.skatteetaten.no/min-side/" target="_blank">Skatteetaten</a></strong> (via <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a>, 2024–2025, Trondheim): Gained hands-on experience in software testing in the Norwegian public sector. Contributed to the <em>Min Side</em> platform and prepared for future projects such as <em>Fremtidens Innkreving</em> and <em>SkattGPT</em>.</li>
+  <li><strong>Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong> (2024– )  
+  Started as a trainee via <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a> in Trondheim, gaining experience in automation (Playwright + TypeScript), API testing, accessibility (WCAG), and security (OWASP).  
+  Now continuing full-time in Mo i Rana within the <em>Fremtidens Innkreving</em> program, focusing on test planning, execution, and quality assurance of new digital services.
+  </li>
 
   <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making.</li>
 
   <li><strong>Military Prosecutor – Turkish Armed Forces</strong> (2012–2013): Managed investigations and represented military prosecution in criminal trials.</li>
+</ul>
+
+<hr>
+
+<h2 align="center">🤝 Mentorship & Community Involvement</h2>
+
+<ul>
+  <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Teaching Java, Selenium, Agile/Scrum, and mentoring real-world QA projects.</li>
+
+  <li><strong>Co-founder of <a href="https://dataforeningen.no/faggrupper/trondheim/intechgrate" target="_blank">InTechGrate – Trondheim</a></strong> – Hosting inclusive tech events for international professionals in Norway.</li>
 </ul>
 
 <hr>
