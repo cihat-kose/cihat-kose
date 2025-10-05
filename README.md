@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Cihat</h1>
 <h2 align="center">Welcome to my GitHub profile! 🎉</h2>
 <div align="center">
@@ -14,13 +13,13 @@
 <h2 align="center">🎤 About Me</h2>
 
 <ul>
-<li>🧑‍💻 <strong>ISTQB® Certified QA</strong> with hands-on testing experience in web/mobile apps.</li>
+<li>🧑‍💻 <strong>ISTQB® Certified QA</strong> currently working as <strong>Testansvarlig @ Skatteetaten (Mo i Rana)</strong> — focusing on public sector quality assurance and test automation.</li>
 <li>⚖️ Former <strong>Judge</strong> — bringing legal precision into tech and public service.</li>
-<li>📚 Academic background in <strong>Law</strong> and <strong>Sociology</strong> — understanding systems and people.</li>
-<li>🧠 Skilled in <strong>case handling, documentation, and intersectoral collaboration</strong>.</li>
-<li>🧭 Focused on <strong>tech, diversity, and public service</strong> — building solutions that matter.</li>
-<li>🗣️ Daily Norwegian user (B1/B2) in professional and social settings.</li>
-<li>🌍 Living in <strong>Trondheim, Norway</strong> — contributing to inclusive digital services.</li>
+<li>📚 Background in <strong>Law</strong> and <strong>Sociology</strong> — understanding both systems and people.</li>
+<li>🧩 Skilled in <strong>test automation, documentation, and interdisciplinary collaboration</strong>.</li>
+<li>💡 Passionate about <strong>tech, inclusion, and public value</strong> — building solutions that matter.</li>
+<li>🗣️ Daily Norwegian user (B1/B2) in professional and social contexts.</li>
+<li>📍 Based in <strong>Mo i Rana, Norway</strong> — contributing to inclusive and secure digital services.</li>
 </ul>
 
 <hr>
@@ -28,8 +27,12 @@
 <h2 align="center">🏛️ Public Sector Experience</h2>
 
 <ul>
-  <li><strong>Trainee Testansvarlig @ <a href="https://www.skatteetaten.no/min-side/" target="_blank">Skatteetaten</a></strong> (via Karrierekraft, 2024–2025): Working on UI automation (Playwright + TypeScript), test planning, and supporting Postman/API, WCAG, and OWASP testing.</li>
-  <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making in both criminal and civil courts.</li>
+  <li><strong>Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong> (2025– ): Working in the <em>Fremtidens Innkreving</em> program. Responsible for test planning, functional and exploratory testing, and ensuring the quality of new digital solutions (Playwright + TypeScript, API, WCAG, OWASP).</li>
+
+  <li><strong>Trainee Testansvarlig @ <a href="https://www.skatteetaten.no/min-side/" target="_blank">Skatteetaten</a></strong> (via <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a>, 2024–2025, Trondheim): Gained hands-on experience in software testing in the Norwegian public sector. Contributed to the <em>Min Side</em> platform and prepared for future projects such as <em>Fremtidens Innkreving</em> and <em>SkattGPT</em>.</li>
+
+  <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making.</li>
+
   <li><strong>Military Prosecutor – Turkish Armed Forces</strong> (2012–2013): Managed investigations and represented military prosecution in criminal trials.</li>
 </ul>
 
@@ -39,8 +42,10 @@
 
 <ul>
   <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Teaching Java, Selenium, Agile/Scrum, and mentoring real-world QA projects.</li>
+
   <li><strong>Co-founder of <a href="https://dataforeningen.no/faggrupper/trondheim/intechgrate" target="_blank">InTechGrate – Trondheim</a></strong> – Hosting inclusive tech events for international professionals in Norway.</li>
 </ul>
+
 
 <!-- 
 
