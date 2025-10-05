@@ -27,7 +27,7 @@
 <h2 align="center">🏛️ Public Sector Experience</h2>
 
 <ul>
-  <li><strong>Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong> (2025– ): Working in the <em>Fremtidens Innkreving</em> program. Responsible for test planning, functional and exploratory testing, and ensuring the quality of new digital solutions (Playwright + TypeScript, API, WCAG, OWASP).</li>
+  <li><strong>Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong> (2025– ): Working in the <em>Fremtidens Innkreving</em> program. Responsible for test planning, functional and exploratory testing, and ensuring the quality of new digital solutions.</li>
 
   <li><strong>Trainee Testansvarlig @ <a href="https://www.skatteetaten.no/min-side/" target="_blank">Skatteetaten</a></strong> (via <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a>, 2024–2025, Trondheim): Gained hands-on experience in software testing in the Norwegian public sector. Contributed to the <em>Min Side</em> platform and prepared for future projects such as <em>Fremtidens Innkreving</em> and <em>SkattGPT</em>.</li>
 
