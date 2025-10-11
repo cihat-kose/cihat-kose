@@ -47,8 +47,6 @@
   <li><strong>Co-founder of <a href="https://dataforeningen.no/faggrupper/trondheim/intechgrate" target="_blank">InTechGrate – Trondheim</a></strong> – Hosting inclusive tech events for international professionals in Norway.</li>
 </ul>
 
-<hr>
-
 <!-- 
 
 <h2 align="center">🎤 About Me</h2>
