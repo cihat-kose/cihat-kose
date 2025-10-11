@@ -49,15 +49,6 @@
 
 <hr>
 
-<h2 align="center">🤝 Mentorship & Community Involvement</h2>
-
-<ul>
-  <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Teaching Java, Selenium, Agile/Scrum, and mentoring real-world QA projects.</li>
-
-  <li><strong>Co-founder of <a href="https://dataforeningen.no/faggrupper/trondheim/intechgrate" target="_blank">InTechGrate – Trondheim</a></strong> – Hosting inclusive tech events for international professionals in Norway.</li>
-</ul>
-
-
 <!-- 
 
 <h2 align="center">🎤 About Me</h2>
