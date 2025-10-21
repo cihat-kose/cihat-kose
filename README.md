@@ -207,8 +207,7 @@
 <h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cihat-kose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:cihat.kose@hotmail.com"><img src="https://img.shields.io/badge/Email-cihat.kose@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/cihat-kose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <a href="https://www.meetup.com/intechgrate/"><img src="https://img.shields.io/badge/MEETUP-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" alt="Meetup Badge"/></a>
   </p>
 
