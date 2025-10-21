@@ -144,13 +144,16 @@
 <!-- 📡 API & Backend Testing -->
 <h3 align="center">📡 API & Backend Testing</h3>
 <p align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.K66TNl9EFGiJ68QlP48hGwHaHa%26pid%3DApi" alt="Postman" width="40" height="40"/></a>
+  <a href="https://www.usebruno.com/" target="_blank"><img src="https://openmoji.org/data/color/svg/1F436.svg" alt="Bruno" width="40" height="40"/></a>  
   <a href="https://rest-assured.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40" height="40"/></a>
+  <a href="https://swagger.io/tools/swagger-ui/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" alt="Swagger" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.pgadmin.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pgadmin.png" alt="pgAdmin4" width="40" height="40"/></a>
+  <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40" height="40"/></a>
 </p>
 
-<!-- 🧪 Performance & Mobile Testing -->
+<!-- 🧪 Performance & Mobile Testing --
 <h3 align="center">🧪 Performance & Mobile Testing</h3>
 <p align="center">
   <a href="http://appium.io/docs/en/2.0/" target="_blank"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/></a>
