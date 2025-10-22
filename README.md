@@ -121,8 +121,8 @@
 
 <h2 align="center">🛠️ Tools I use for automation, testing, and development.</h2>
 
-<!-- 🚀 Programming & Test Automation -->
-<h3 align="center">🚀 Programming & Test Automation</h3>
+<!-- 🚀 Programming, Test Automation & Frameworks -->
+<h3 align="center">🚀 Programming, Test Automation & Frameworks</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="40" height="40"/></a>
@@ -130,13 +130,8 @@
   <a href="https://www.selenium.dev" target="_blank"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="40" height="40"/></a>
   <a href="https://www.cypress.io" target="_blank"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" alt="Cypress" width="40" height="40"/></a>
   <a href="https://cucumber.io/" target="_blank"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="40" height="40"/></a>
-</p>
-
-<!-- 📦 Frameworks & Build Tools -->
-<h3 align="center">📦 Frameworks & Build Tools</h3>
-<p align="center">
-  <a href="https://testng.org/doc/" target="_blank"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" alt="TestNG" width="40" height="40"/></a>
   <a href="https://junit.org/junit5/" target="_blank"><img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" alt="JUnit" width="40" height="40"/></a>
+  <a href="https://testng.org/doc/" target="_blank"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" alt="TestNG" width="40" height="40"/></a>
   <a href="https://poi.apache.org/" target="_blank"><img src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/apache-poi-logo.jpg" alt="ApachePOI" width="40" height="40"/></a>
   <a href="https://maven.apache.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="Maven" width="40" height="40"/></a>
 </p>
