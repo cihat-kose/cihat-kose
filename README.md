@@ -137,8 +137,8 @@
 <p align="center">
   <a href="https://testng.org/doc/" target="_blank"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" alt="TestNG" width="40" height="40"/></a>
   <a href="https://junit.org/junit5/" target="_blank"><img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" alt="JUnit" width="40" height="40"/></a>
-  <a href="https://poi.apache.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJXG20pfTUGttyFUZK6s16ozY02CFsDiju9V68INJDQxBOovK10R8aBnZOOMneij3atRA&usqp=CAU" alt="ApachePOI" width="40" height="40"/></a>
-  <a href="https://maven.apache.org/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc-fX-6ncZTctodZRvv5XtSgZoG-aEfH8xXQ&s" alt="Maven" width="40" height="40"/></a>
+  <a href="https://poi.apache.org/" target="_blank"><img src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/apache-poi-logo.jpg" alt="ApachePOI" width="40" height="40"/></a>
+  <a href="https://maven.apache.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" alt="Maven" width="40" height="40"/></a>
 </p>
 
 <!-- 📡 API & Backend Testing -->
