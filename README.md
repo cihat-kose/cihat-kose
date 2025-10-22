@@ -15,7 +15,7 @@
 <ul>
 <li>🧑‍💻 <strong>ISTQB® Certified QA</strong> with hands-on testing experience in the Norwegian public sector.</li>
 <li>⚖️ Former <strong>Judge</strong> — bringing legal precision into tech and public service.</li>
-<li>📚 Background in <strong>Law</strong> and <strong>Sociology</strong> — understanding both systems and people.</li>
+<li>📚 Background in <strong>Law</strong> and <strong>Sociology</strong> — <em>understanding both systems and people.</em></li>
 <li>🧩 Skilled in <strong>test automation, documentation</strong>, and interdisciplinary collaboration.</li>
 <li>💡 Passionate about <strong>tech, inclusion, and public value</strong> — building solutions that matter.</li>
 <li>🗣️ Daily Norwegian user (B1/B2) in professional and social contexts.</li>
@@ -29,7 +29,7 @@
 <ul>
   <li><strong>Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong> (2024– )  
   Started as a trainee via <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a> in Trondheim, gaining experience in automation (Playwright + TypeScript), API testing, accessibility (WCAG), and security (OWASP).  
-  Now continuing full-time in Mo i Rana within the <em>Fremtidens Innkreving</em> program, focusing on test planning, execution, and quality assurance of new digital services.
+  Currently continuing full-time in Mo i Rana within the <em>Fremtidens Innkreving</em> program, focusing on test planning, execution, and quality assurance of new digital services.
   </li>
 
   <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making.</li>
@@ -185,11 +185,9 @@
 </p>
 
 <p align="center">
-<!--  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cihat-kose&theme=react" alt="Repository Languages"/>  -->
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cihat-kose&theme=react" alt="Most Coded Languages"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=react" alt="General Statistics"/>
-<img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihat-kose&theme=react" alt="Profile Details"/>
-<!--  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cihat-kose&theme=react&utcOffset=01" alt="Productive Time"/>  -->
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cihat-kose&theme=github_dark" alt="Most Used Languages"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=github_dark" alt="GitHub Stats"/>
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihat-kose&theme=github_dark" alt="Profile Details"/>
 </p>
 
 <!-- 
@@ -207,7 +205,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/cihat-kose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://www.meetup.com/intechgrate/"><img src="https://img.shields.io/badge/MEETUP-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" alt="Meetup Badge"/></a>
-  </p>
+  <a href="https://www.hackerrank.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://www.postman.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+</p>
 
 <p align="center">
 	Let's connect through community, collaboration, or meaningful tech events!
