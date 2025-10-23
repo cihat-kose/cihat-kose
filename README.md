@@ -27,10 +27,7 @@
 <h2 align="center">🏛️ Public Sector Experience</h2>
 
 <ul>
-  <li><strong>Overingeniør / Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong>:  
-  Started as a trainee through <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a> in Trondheim, gaining experience in automation (Playwright + TypeScript), API testing, accessibility (WCAG), and security (OWASP).  
-  Currently continuing full-time in Mo i Rana within the <em>Fremtidens Innkreving</em> program, focusing on test planning, execution, and quality assurance of new digital services.
-  </li>
+  <li><strong>Overingeniør / Testansvarlig @ <a href="https://www.skatteetaten.no/">Skatteetaten</a></strong> – Started through <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> in Trondheim, currently working full-time in Mo i Rana within the <em>Fremtidens Innkreving</em> program, focusing on automation, test planning, and quality assurance</li>
 
   <li><strong>Criminal & Civil Court Judge – Ministry of Justice, Turkey</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making.</li>
 
