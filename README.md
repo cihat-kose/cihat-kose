@@ -27,8 +27,8 @@
 <h2 align="center">🏛️ Public Sector Experience</h2>
 
 <ul>
-  <li><strong>Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong> (2024– )  
-  Started as a trainee via <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a> in Trondheim, gaining experience in automation (Playwright + TypeScript), API testing, accessibility (WCAG), and security (OWASP).  
+  <li><strong>Overingeniør / Testansvarlig @ <a href="https://www.skatteetaten.no/" target="_blank">Skatteetaten</a></strong>:  
+  Started as a trainee through <a href="https://www.trondheim.kommune.no/karrierekraft/" target="_blank">Karrierekraft</a> in Trondheim, gaining experience in automation (Playwright + TypeScript), API testing, accessibility (WCAG), and security (OWASP).  
   Currently continuing full-time in Mo i Rana within the <em>Fremtidens Innkreving</em> program, focusing on test planning, execution, and quality assurance of new digital services.
   </li>
 
