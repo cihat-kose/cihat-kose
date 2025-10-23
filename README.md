@@ -25,6 +25,7 @@
 <hr>
 
 <h2 align="center">🏛️ Public Sector Experience</h2>
+<p align="center"><em>Blending public service, technology, and quality assurance.</em></p>
 
 <ul>
   <li><strong>Overingeniør / Testansvarlig @ <a href="https://www.skatteetaten.no/">Skatteetaten</a></strong> – Started through <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> in Trondheim, currently working full-time in Mo i Rana within the <em>Fremtidens Innkreving</em> program, focusing on automation, test planning, and quality assurance</li>
