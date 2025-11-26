@@ -13,7 +13,7 @@
 <h2 align="center">🎤 About Me</h2>
 
 <ul>
-<li>🧑‍💻 <strong>ISTQB® Certified QA Engineer</strong> with hands-on testing experience in the Norwegian public sector.</li>
+<li>🧑‍💻 <strong>ISTQB® Certified Software QA Engineer</strong> with hands-on testing experience in the Norwegian public sector.</li>
 <li>⚖️ Former <strong>Judge</strong>, bringing legal precision into tech and public service.</li>
 <li>📚 Background in <strong>Law</strong>, <strong>Sociology</strong> and <strong>Technology</strong>, <em>understanding systems, people and their interaction.</em></li>
 <li>🧩 Skilled in <strong>test automation, documentation</strong> and interdisciplinary collaboration.</li>
