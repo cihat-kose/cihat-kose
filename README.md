@@ -203,7 +203,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cihat-kose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.meetup.com/intechgrate/"><img src="https://img.shields.io/badge/MEETUP-ED1C40?style=for-the-badge&logo=meetup&logoColor=white" alt="Meetup Badge"/></a>
   <a href="https://www.hackerrank.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
   <a href="https://www.postman.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 </p>
