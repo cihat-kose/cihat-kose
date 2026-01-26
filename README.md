@@ -19,7 +19,7 @@
 <li>🧩 Skilled in <strong>test automation, documentation</strong> and interdisciplinary collaboration.</li>
 <li>💡 Passionate about <strong>tech, inclusion and public value</strong>, building solutions that matter.</li>
 <li>🗣️ Daily Norwegian user (B1/B2) in professional and social contexts.</li>
-<li>📍 Based in <strong>Mo i Rana, Norway</strong>, contributing to inclusive and secure digital services.</li>
+<li>📍 Based in <strong>Trondheim, Norway</strong>, contributing to inclusive and secure digital services.</li>
 </ul>
 
 <hr>
