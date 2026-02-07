@@ -135,7 +135,7 @@
 </p>
 
 <!-- 📡 API & Backend Testing -->
-<h3 align="center">📡 API & Backend Testing</h3>
+<h3 align="center">📡 API, Backend Testing & Observability</h3>
 <p align="center">
   <a href="https://postman.com" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.K66TNl9EFGiJ68QlP48hGwHaHa%26pid%3DApi" alt="Postman" width="40" height="40"/></a>
   <a href="https://www.usebruno.com/" target="_blank"><img src="https://openmoji.org/data/color/svg/1F436.svg" alt="Bruno" width="40" height="40"/></a>  
