@@ -28,12 +28,26 @@
 <p align="center"><em>Blending public service, technology, and quality assurance.</em></p>
 
 <ul>
-  <li><strong>Overingeniør / Testansvarlig @ <a href="https://www.skatteetaten.no/">Skatteetaten</a></strong> – Started through <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> in Trondheim, currently working full-time in Mo i Rana/Trondheim within the <em>Fremtidens Innkreving</em> program, focusing on automation, test planning, and quality assurance</li>
+  <li>
+    <strong>Overingeniør / Testansvarlig @ 
+      <a href="https://www.skatteetaten.no/">Skatteetaten</a>
+    </strong> – Started through 
+    <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> 
+    in Trondheim, currently based in Trondheim and working with a team in Mo i Rana within the 
+    <em>Fremtidens Innkreving</em> program, focusing on automation, test planning, and quality assurance.
+  </li>
 
-  <li><strong>Criminal & Civil Court Judge – Council of Judges and Prosecutors of the Republic of Türkiye</strong> (2013–2016): Led legal reasoning, case handling, and public decision-making.</li>
+  <li>
+    <strong>Criminal & Civil Court Judge – Council of Judges and Prosecutors of the Republic of Türkiye</strong> 
+    (2013–2016): Led legal reasoning, case handling, and public decision-making.
+  </li>
 
-  <li><strong>Military Prosecutor – Turkish Armed Forces</strong> (2012–2013): Managed investigations and represented military prosecution in criminal trials.</li>
+  <li>
+    <strong>Military Prosecutor – Turkish Armed Forces</strong> 
+    (2012–2013): Managed investigations and represented military prosecution in criminal trials.
+  </li>
 </ul>
+
 
 <hr>
 
