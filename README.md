@@ -146,6 +146,12 @@
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40" height="40"/></a>
 </p>
 
+<!-- ♿ Accessibility & UX Testing -->
+<h3 align="center">♿ Accessibility & UX Testing</h3>
+<p align="center">
+  <a href="https://wave.webaim.org/" target="_blank"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" alt="WAVE Accessibility Tool" width="40" height="40"/></a>
+</p>
+
 <!-- 🧪 Performance & Mobile Testing --
 <h3 align="center">🧪 Performance & Mobile Testing</h3>
 <p align="center">
