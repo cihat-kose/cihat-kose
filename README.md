@@ -33,8 +33,9 @@
       <a href="https://www.skatteetaten.no/">Skatteetaten</a>
     </strong> – Started through 
     <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> 
-    in Trondheim, currently based in Trondheim and working with a team in Mo i Rana within the 
-    <em>Fremtidens Innkreving</em> program, focusing on automation, test planning, and quality assurance.
+    in Trondheim, currently based in Trondheim and working with a team in Mo i Rana within the
+  <a href="https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/"> Fremtidens Innkreving</a>
+	  program, focusing on automation, test planning, and quality assurance.
   </li>
 
   <li>
