@@ -144,6 +144,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.pgadmin.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pgadmin.png" alt="pgAdmin4" width="40" height="40"/></a>
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40" height="40"/></a>
+  <a href="https://www.splunk.com/" target="_blank"><img src="https://www.ucyfer.com/wp-content/uploads/2023/01/logo-splunk.jpeg" alt="Splunk" width="40" height="40"/></a>
 </p>
 
 <!-- ♿ Accessibility & UX Testing -->
