@@ -165,6 +165,7 @@
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VSCode" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="IntelliJ IDEA" width="40" height="40"/></a>
+  <a href="https://github.com/features/copilot" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ171TqGq21JDajxZwUYBqX9m8zN7SZsMVew&s" alt="GitHub Copilot" width="40" height="40"/></a>
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/></a>
 </p>
 
