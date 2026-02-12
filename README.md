@@ -18,7 +18,7 @@
 <li>📚 Background in <strong>Law</strong>, <strong>Sociology</strong> and <strong>Technology</strong>, <em>understanding systems, people, and their interaction.</em></li>
 <li>🧩 Skilled in <strong>test automation, documentation</strong> and interdisciplinary collaboration.</li>
 <li>💡 Passionate about <strong>tech, inclusion and public value</strong>, building solutions that matter.</li>
-<li>📍 Based in <strong>Trondheim, Norway</strong>, focused to inclusive and secure digital services.</li>
+<li>📍 Based in Trondheim, Norway, collaborating with a cross-functional team in Mo i Rana, focused on inclusive and secure digital public services.</li>
 </ul>
 
 <hr>
@@ -27,15 +27,15 @@
 <p align="center"><em>Blending public service, technology, and quality assurance.</em></p>
 
 <ul>
-  <li>
-    <strong>Overingeniør / Testansvarlig @ 
-      <a href="https://www.skatteetaten.no/">Skatteetaten</a>
-    </strong> – Started through 
-    <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> 
-    in Trondheim, currently based in Trondheim and working with a team in Mo i Rana within the
-  <a href="https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/"> Fremtidens Innkreving</a>
-	  program, focusing on automation, test planning, and quality assurance.
-  </li>
+<li>
+  <strong>Overingeniør / Testansvarlig @ 
+    <a href="https://www.skatteetaten.no/">Skatteetaten</a>
+  </strong> – Started through 
+  <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> 
+  in Trondheim, currently based in Trondheim and contributing to the delivery of digital public services within the 
+  <a href="https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/">Fremtidens Innkreving</a>
+  program, collaborating with a cross-functional team in Mo i Rana, focusing on automation, test planning, and quality assurance.
+</li>
 
   <li>
     <strong>Criminal & Civil Court Judge – Council of Judges and Prosecutors of the Republic of Türkiye</strong> 
