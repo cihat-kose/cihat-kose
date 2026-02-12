@@ -18,7 +18,7 @@
 <li>📚 Background in <strong>Law</strong>, <strong>Sociology</strong> and <strong>Technology</strong>, <em>understanding systems, people, and their interaction.</em></li>
 <li>🧩 Skilled in <strong>test automation, documentation</strong> and interdisciplinary collaboration.</li>
 <li>💡 Passionate about <strong>tech, inclusion and public value</strong>, building solutions that matter.</li>
-<li>📍 Based in Trondheim, Norway, collaborating with a cross-functional team in Mo i Rana, focused on inclusive and secure digital public services.</li>
+<li>📍 Based in Trondheim, Norway, contributing to digital public services across locations.</li>
 </ul>
 
 <hr>
