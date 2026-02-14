@@ -201,8 +201,6 @@
 
 <hr>
 
-<!-- 
-
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 ⚡ Discover my GitHub contributions, coding activity, and project stats!
@@ -213,8 +211,6 @@
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=github_dark" alt="GitHub Stats"/>
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihat-kose&theme=github_dark" alt="Profile Details"/>
 </p>
-
- -->
 
 <p align="center">
   <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%"/>
