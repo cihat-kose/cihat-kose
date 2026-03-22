@@ -156,7 +156,7 @@
   <a href="https://rest-assured.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" style="margin:5px;" alt="Rest Assured" width="40" height="40"/></a>
   <a href="https://swagger.io/tools/swagger-ui/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" style="margin:5px;" alt="Swagger" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" style="margin:5px;" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.pgadmin.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pgadmin.png" style="margin:5px;" alt="pgAdmin4" width="40" height="40"/></a>
+  <a href="https://www.pgadmin.org/" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.Q7VvPa7HsW3m768GDQw7zQHaHa%3Fpid%3DApi&f=1&ipt=ffba928385f39d009a0d41e5a52f23068b3cfb7cb63c0a7eb9c79de8791f2d1a" style="margin:5px;" alt="pgAdmin4" width="40" height="40"/></a>
   <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/" target="_blank"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" style="margin:5px;" alt="JDBC" width="40" height="40"/></a>
   <a href="https://grafana.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" style="margin:5px;" alt="Grafana" width="40" height="40"/></a>
   <a href="https://www.splunk.com/" target="_blank"><img src="https://www.ucyfer.com/wp-content/uploads/2023/01/logo-splunk.jpeg" style="margin:5px;" alt="Splunk" width="40" height="40"/></a>
