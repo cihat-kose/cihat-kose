@@ -71,7 +71,6 @@
 
 <h2 align="center">🛠️ Tools I use for automation, testing, and development.</h2>
 
-<!-- 🚀 Programming, Test Automation & Frameworks -->
 <h3 align="center">🚀 Programming, Test Automation & Frameworks</h3>
 <p align="center">
   <a href="https://www.java.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="margin:5px;" alt="Java" width="40" height="40"/></a>
@@ -86,7 +85,6 @@
   <a href="https://maven.apache.org/" target="_blank"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" style="margin:5px;" alt="Maven" width="40" height="40"/></a>
 </p>
 
-<!-- 📡 API & Backend Testing -->
 <h3 align="center">📡 API, Backend Testing & Observability</h3>
 <p align="center">
   <a href="https://postman.com" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.K66TNl9EFGiJ68QlP48hGwHaHa%26pid%3DApi" style="margin:5px;" alt="Postman" width="40" height="40"/></a>
@@ -100,20 +98,17 @@
   <a href="https://www.splunk.com/" target="_blank"><img src="https://www.ucyfer.com/wp-content/uploads/2023/01/logo-splunk.jpeg" style="margin:5px;" alt="Splunk" width="40" height="40"/></a>
 </p>
 
-<!-- ♿ Accessibility & UX Testing -->
 <h3 align="center">♿ Accessibility & UX Testing</h3>
 <p align="center">
 	<a href="https://wave.webaim.org/" target="_blank"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" style="margin:5px;" alt="WAVE Accessibility Tool" width="40" height="40"/></a>
 </p>
 
-<!-- 🧪 Performance & Mobile Testing -->
 <h3 align="center">🧪 Performance & Mobile Testing</h3>
 <p align="center">
   <a href="http://appium.io/docs/en/2.0/" target="_blank"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/></a>
   <a href="https://locust.io/" target="_blank"><img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40" height="40"/></a>
 </p>
 
-<!-- 💻 IDE & CI/CD -->
 <h3 align="center">💻 IDE & CI/CD</h3>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" style="margin:5px;" alt="VSCode" width="40" height="40"/></a>
@@ -122,7 +117,6 @@
   <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" style="margin:5px;" alt="Jenkins" width="40" height="40"/></a>
 </p>
 
-<!-- 🤝 Collaboration & DevOps -->
 <h3 align="center">🤝 Collaboration & DevOps</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="margin:5px;" alt="Git" width="40" height="40"/></a>
@@ -133,7 +127,6 @@
   <a href="https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira" target="_blank"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-52BLU4E8lho%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FL0tsY_BFH74%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=803242248bece5b82554610c83bbc2627f97eee6b63a31a62a3605b738aa4557" style="margin:5px;" alt="Jira Zephyr" width="40" height="40"/></a>
   <a href="https://slack.com/intl/en-tr/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" style="margin:5px;" alt="Slack" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/microsoft-teams" target="_blank"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png?rf=1024" style="margin:5px;" alt="Microsoft Teams" width="40" height="40"/></a>
-  <!-- <a href="https://discord.com/" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-round-color-icon.png" alt="Discord" width="40" height="40"/></a> -->
   <a href="https://mattermost.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" style="margin:5px;" alt="Mattermost" width="40" height="40"/></a>
 </p>
 
@@ -176,3 +169,4 @@
 <h2 align="center">Keep coding! 💻 Stay awesome! ✨</h2>
 
 <hr>
+
