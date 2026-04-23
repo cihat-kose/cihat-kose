@@ -73,36 +73,32 @@
 
 <h3 align="center">🚀 Programming, Test Automation & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,typescript,selenium,cypress,playwright,maven" alt="Programming and automation tools" />
+  <img src="https://skillicons.dev/icons?i=java,ts,playwright,selenium,cypress,maven&perline=10" alt="Programming, test automation and frameworks" />
 </p>
 
 <h3 align="center">📡 API, Backend Testing & Observability</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,mysql,grafana" alt="API and backend testing tools" />
+  <img src="https://skillicons.dev/icons?i=postman,mysql,grafana&perline=10" alt="API, backend testing and observability" />
 </p>
 
 <h3 align="center">♿ Accessibility & UX Testing</h3>
 <p align="center">
-  <a href="https://wave.webaim.org/" target="_blank"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" alt="WAVE Accessibility Tool" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=webflow&perline=10" alt="Accessibility and UX testing" />
 </p>
 
-<!-- 🧪 Performance & Mobile Testing -->
 <h3 align="center">🧪 Performance & Mobile Testing</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=appium" alt="Mobile testing" />
-  <a href="https://locust.io/" target="_blank"><img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=appium&perline=10" alt="Performance and mobile testing" />
 </p>
 
 <h3 align="center">💻 IDE & CI/CD</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,github,jenkins" alt="IDE and CI/CD tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,github,jenkins&perline=10" alt="IDE and CI/CD" />
 </p>
 
 <h3 align="center">🤝 Collaboration & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,slack" alt="Collaboration and DevOps tools" />
-  <a href="https://www.microsoft.com/microsoft-teams" target="_blank"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png?rf=1024" alt="Microsoft Teams" width="40" height="40"/></a>
-  <a href="https://mattermost.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" alt="Mattermost" width="40" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,slack,discord&perline=10" alt="Collaboration and DevOps" />
 </p>
 
 <hr>
@@ -144,4 +140,3 @@
 <h2 align="center">Keep coding! 💻 Stay awesome! ✨</h2>
 
 <hr>
-
