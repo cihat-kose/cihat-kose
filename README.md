@@ -168,7 +168,7 @@
 	<a href="https://wave.webaim.org/" target="_blank"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" style="margin:5px;" alt="WAVE Accessibility Tool" width="40" height="40"/></a>
 </p>
 
-<!-- 🧪 Performance & Mobile Testing --
+<!-- 🧪 Performance & Mobile Testing -->
 <h3 align="center">🧪 Performance & Mobile Testing</h3>
 <p align="center">
   <a href="http://appium.io/docs/en/2.0/" target="_blank"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" alt="Appium" width="40" height="40"/></a>
