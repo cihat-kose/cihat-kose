@@ -55,8 +55,6 @@
 
 <ul>
   <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Teaching and mentoring QA students (Java, Selenium, Agile/Scrum, and more) through real-world testing projects.</li>
-
- <!--  <li><strong>Co-founder of <a href="https://dataforeningen.no/faggrupper/trondheim/intechgrate" target="_blank">InTechGrate – Trondheim</a></strong> – Hosting inclusive tech events for international professionals in Norway.</li> -->
 </ul>
 
 <hr>
@@ -69,7 +67,7 @@
 
 <hr>
 
-<h2 align="center">🛠️ Tools I use for automation, testing, and development.</h2>
+<!-- <h2 align="center">🛠️ Tools I use for automation, testing, and development.</h2>
 
 <h3 align="center">🚀 Programming, Test Automation & Frameworks</h3>
 <p align="center">
@@ -130,7 +128,7 @@
   <a href="https://mattermost.com/" target="_blank" rel="noreferrer"><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" style="margin:5px;" alt="Mattermost" width="40" height="40"/></a>
 </p>
 
-<hr>
+<hr> -->
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
@@ -169,3 +167,4 @@
 <h2 align="center">Keep coding! 💻 Stay awesome! ✨</h2>
 
 <hr>
+
