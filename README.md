@@ -75,31 +75,61 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,ts,playwright,selenium,cypress,maven&perline=10" alt="Programming, test automation and frameworks" />
 </p>
+<table align="center">
+  <tr>
+    <td><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" alt="Cucumber" width="34" height="34"/></td>
+    <td><img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" alt="JUnit" width="34" height="34"/></td>
+    <td><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" alt="TestNG" width="34" height="34"/></td>
+    <td><img src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/apache-poi-logo.jpg" alt="Apache POI" width="34" height="34"/></td>
+  </tr>
+</table>
 
 <h3 align="center">📡 API, Backend Testing & Observability</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman,mysql,grafana&perline=10" alt="API, backend testing and observability" />
 </p>
+<table align="center">
+  <tr>
+    <td><img src="https://openmoji.org/data/color/svg/1F436.svg" alt="Bruno" width="34" height="34"/></td>
+    <td><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="34" height="34"/></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" alt="Swagger" width="34" height="34"/></td>
+    <td><img src="https://www.pgadmin.org/static/COMPILED/assets/img/logo-hero.png" alt="pgAdmin4" width="34" height="34"/></td>
+    <td><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="34" height="34"/></td>
+    <td><img src="https://www.ucyfer.com/wp-content/uploads/2023/01/logo-splunk.jpeg" alt="Splunk" width="34" height="34"/></td>
+  </tr>
+</table>
 
 <h3 align="center">♿ Accessibility & UX Testing</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=webflow&perline=10" alt="Accessibility and UX testing" />
+  <img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" alt="WAVE Accessibility Tool" width="40" height="40"/>
 </p>
 
 <h3 align="center">🧪 Performance & Mobile Testing</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=appium&perline=10" alt="Performance and mobile testing" />
+  <img src="https://skillicons.dev/icons?i=appium&perline=10" alt="Appium" />
+  <img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40" height="40"/>
 </p>
 
 <h3 align="center">💻 IDE & CI/CD</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,github,jenkins&perline=10" alt="IDE and CI/CD" />
 </p>
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ171TqGq21JDajxZwUYBqX9m8zN7SZsMVew&s" alt="GitHub Copilot" width="40" height="40"/>
+</p>
 
 <h3 align="center">🤝 Collaboration & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,slack,discord&perline=10" alt="Collaboration and DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira,slack&perline=10" alt="Collaboration and DevOps" />
 </p>
+<table align="center">
+  <tr>
+    <td><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="Jira Xray" width="34" height="34"/></td>
+    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fyt3.ggpht.com%2F-52BLU4E8lho%2FAAAAAAAAAAI%2FAAAAAAAAAAA%2FL0tsY_BFH74%2Fs900-c-k-no-mo-rj-c0xffffff%2Fphoto.jpg&f=1&nofb=1&ipt=803242248bece5b82554610c83bbc2627f97eee6b63a31a62a3605b738aa4557" alt="Jira Zephyr" width="34" height="34"/></td>
+    <td><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png?rf=1024" alt="Microsoft Teams" width="34" height="34"/></td>
+    <td><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" alt="Mattermost" width="34" height="34"/></td>
+  </tr>
+</table>
 
 <hr>
 
