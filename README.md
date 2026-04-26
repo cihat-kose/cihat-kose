@@ -64,7 +64,6 @@
 	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank"> <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Certified Tester"/></a>
 	<a href="https://www.hackerrank.com/cihatkose" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Java 5 Star"/></a>
 </p>
-
 <hr>
 
 <h2 align="center">🛠️ Tools I use for automation, testing, and development.</h2>
@@ -78,7 +77,7 @@
 <a href="https://www.cypress.io"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" width="40"/></a>&nbsp;
 <a href="https://cucumber.io/"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" width="40"/></a>&nbsp;
 <a href="https://junit.org/junit5/"><img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" width="40"/></a>&nbsp;
-<a href="https://testng.org/"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" width="40"/></a>&nbsp;
+<a href="https://testng.org/doc/"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" width="40"/></a>&nbsp;
 <a href="https://poi.apache.org/"><img src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/apache-poi-logo.jpg" width="40"/></a>&nbsp;
 <a href="https://maven.apache.org/"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" width="40"/></a>
 </p>
@@ -119,16 +118,16 @@
 <p align="center">
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
 <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/></a>&nbsp;
-<a href="https://bitbucket.org/"><img src="https://icon-library.com/images/bitbucket-icon/bitbucket-icon-28.jpg" width="40"/></a>&nbsp;
+<a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/></a>&nbsp;
 <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="40"/></a>&nbsp;
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" width="40"/></a>&nbsp;
-<a href="https://marketplace.atlassian.com/apps/1213259/zephyr-scale-test-management-for-jira"><img src="https://yt3.ggpht.com/ytc/AAUvwni52BLU4E8lho=s900-c-k-c0x00ffffff-no-rj" width="40"/></a>&nbsp;
 <a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" width="40"/></a>&nbsp;
 <a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png" width="40"/></a>&nbsp;
 <a href="https://mattermost.com/"><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" width="40"/></a>
 </p>
 
 <hr>
+
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
 ⚡ Discover my GitHub contributions, coding activity, and project stats!
