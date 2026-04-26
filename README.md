@@ -100,12 +100,6 @@
 <a href="https://www.nvaccess.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/NVDA_Logo.png?_=20240225145733" width="40"/></a>
 </p>
 
-<h3 align="center">🧪 Performance & Mobile Testing</h3>
-<p align="center">
-<a href="http://appium.io/docs/en/2.0/"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" width="40"/></a>&nbsp;
-<a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" width="40"/></a>
-</p>
-
 <h3 align="center">💻 IDE & CI/CD</h3>
 <p align="center">
 <a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"/></a>&nbsp;
@@ -120,10 +114,16 @@
 <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/></a>&nbsp;
 <a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/></a>&nbsp;
 <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="40"/></a>&nbsp;
-<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" width="40"/></a>&nbsp;
 <a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" width="40"/></a>&nbsp;
 <a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png" width="40"/></a>&nbsp;
 <a href="https://mattermost.com/"><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" width="40"/></a>
+</p>
+
+<h3 align="center">📚 Exploring / Learning</h3>
+<p align="center">
+<a href="http://appium.io/docs/en/2.0/"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" width="40"/></a>&nbsp;
+<a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" width="40"/></a>&nbsp;
+<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" width="40"/></a>&nbsp;
 </p>
 
 <hr>
