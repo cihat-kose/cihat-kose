@@ -97,7 +97,8 @@
 
 <h3 align="center">♿ Accessibility & UX Testing</h3>
 <p align="center">
-<a href="https://wave.webaim.org/"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" width="40"/></a>
+<a href="https://wave.webaim.org/"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" width="40"/></a>&nbsp;
+<a href="https://www.nvaccess.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/NVDA_Logo.png?_=20240225145733" width="40"/></a>
 </p>
 
 <h3 align="center">🧪 Performance & Mobile Testing</h3>
