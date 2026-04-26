@@ -78,7 +78,7 @@
 <a href="https://www.cypress.io"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" width="40"/></a>&nbsp;
 <a href="https://cucumber.io/"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" width="40"/></a>&nbsp;
 <a href="https://junit.org/junit5/"><img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" width="40"/></a>&nbsp;
-<a href="https://testng.org/doc/"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" width="40"/></a>&nbsp;
+<a href="https://testng.org/"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" width="40"/></a>&nbsp;
 <a href="https://poi.apache.org/"><img src="https://www.javacodegeeks.com/wp-content/uploads/2012/10/apache-poi-logo.jpg" width="40"/></a>&nbsp;
 <a href="https://maven.apache.org/"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" width="40"/></a>
 </p>
