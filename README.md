@@ -74,7 +74,6 @@
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/></a>&nbsp;
 <a href="https://playwright.dev"><img src="https://playwright.dev/img/playwright-logo.svg" width="40"/></a>&nbsp;
 <a href="https://www.selenium.dev"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40"/></a>&nbsp;
-<a href="https://www.cypress.io"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" width="40"/></a>&nbsp;
 <a href="https://cucumber.io/"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" width="40"/></a>&nbsp;
 <a href="https://junit.org/junit5/"><img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" width="40"/></a>&nbsp;
 <a href="https://testng.org/doc/"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" width="40"/></a>&nbsp;
@@ -121,6 +120,7 @@
 
 <h3 align="center">📚 Exploring / Learning</h3>
 <p align="center">
+<a href="https://www.cypress.io"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" width="40"/></a>&nbsp;
 <a href="http://appium.io/docs/en/2.0/"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" width="40"/></a>&nbsp;
 <a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" width="40"/></a>&nbsp;
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" width="40"/></a>&nbsp;
