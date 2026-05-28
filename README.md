@@ -83,7 +83,7 @@
 <h3 align="center">📡 API, Backend Testing & Observability</h3>
 <p align="center">
 <a href="https://postman.com"><img src="https://tse1.mm.bing.net/th?id=OIP.K66TNl9EFGiJ68QlP48hGwHaHa&pid=Api" width="40"/></a>&nbsp;
-<a href="https://www.usebruno.com/"><img src="https://openmoji.org/data/color/svg/1F436.svg" width="40"/></a>&nbsp;
+<a href="https://www.usebruno.com/"><img src="https://bearsampp.com/images/logo/bruno-logo-transparent.png" width="40"/></a>&nbsp;
 <a href="https://rest-assured.io/"><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" width="40"/></a>&nbsp;
 <a href="https://swagger.io/tools/swagger-ui/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" width="40"/></a>&nbsp;
 <a href="https://www.mysql.com/"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="40"/></a>&nbsp;
