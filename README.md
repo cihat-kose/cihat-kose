@@ -30,11 +30,10 @@
 <li>
   <strong>Overingeniør / Testansvarlig @ 
     <a href="https://www.skatteetaten.no/">Skatteetaten</a>
-  </strong> – Started through 
-  <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a> 
-  in Trondheim, currently based in Trondheim and contributing to the delivery of digital public services within the 
-  <a href="https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/">Fremtidens Innkreving</a>
-  program, collaborating with a cross-functional team in Mo i Rana, focusing on automation, test planning, and quality assurance.
+  </strong> (2025–present) – Test coordination and quality assurance for
+  <a href="https://www.skatteetaten.no/om-skatteetaten/fremtidens-innkreving/">Fremtidens Innkreving</a>,
+  the programme modernising public debt collection in Norway. Working from the Trondheim office with a cross-functional team based in Mo i Rana.
+  Joined through <a href="https://www.trondheim.kommune.no/karrierekraft/">Karrierekraft</a>.
 </li>
 
   <li>
@@ -48,13 +47,22 @@
   </li>
 </ul>
 
+<hr>
+
+<h2 align="center">🎓 Education</h2>
+
+<ul>
+  <li><strong>Backend Programming</strong> – <a href="https://www.gokstadakademiet.no/">Gokstad Akademiet</a> (2025–present, 2nd year, distance learning)</li>
+  <li><strong>LLB, Law</strong> – Ankara University</li>
+  <li><strong>BA, Sociology</strong> – Istanbul University</li>
+</ul>
 
 <hr>
 
 <h2 align="center">🎓 Teaching, Mentoring & Community Involvement</h2>
 
 <ul>
-  <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Teaching and mentoring QA students (Java, Selenium, Agile/Scrum, and more) through real-world testing projects.</li>
+  <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Taught and mentored QA students (Java, Selenium, Agile/Scrum, and more) through real-world testing projects.</li>
 </ul>
 
 <hr>
@@ -120,6 +128,9 @@
 
 <h3 align="center">📚 Exploring / Learning</h3>
 <p align="center">
+<!-- <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40"/></a>&nbsp; -->
+<a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/></a>&nbsp;
 <a href="https://www.cypress.io"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" width="40"/></a>&nbsp;
 <a href="http://appium.io/docs/en/2.0/"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" width="40"/></a>&nbsp;
 <a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" width="40"/></a>&nbsp;
@@ -165,4 +176,3 @@
 <h2 align="center">Keep coding! 💻 Stay awesome! ✨</h2>
 
 <hr>
-
