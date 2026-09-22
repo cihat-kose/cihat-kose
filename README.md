@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cihat</h1>
 <p align="center">
-  <img src="assets/qa-logo.png" alt="Cihat Köse QA monogram" width="112" />
+  <img src="assets/qa-logo-circle.svg" alt="Cihat Köse QA monogram" width="112" />
 </p>
 <h2 align="center">Welcome to my GitHub profile! 🎉</h2>
 <div align="center">
