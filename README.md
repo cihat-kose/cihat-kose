@@ -77,11 +77,11 @@
 
 <h3 align="center">🚀 Programming, Test Automation & Frameworks</h3>
 <p align="center">
-<a href="https://www.java.com"><img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40"/></a>&nbsp;
-<a href="https://www.typescriptlang.org/"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/></a>&nbsp;
-<a href="https://playwright.dev"><img src="https://playwright.dev/img/playwright-logo.svg" width="40"/></a>&nbsp;
-<a href="https://www.selenium.dev"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40"/></a>&nbsp;
-<a href="https://cucumber.io/"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" width="40"/></a>&nbsp;
+<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40"/></a>&nbsp;
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40"/></a>&nbsp;
+<a href="https://playwright.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="40"/></a>&nbsp;
+<a href="https://www.selenium.dev"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40"/></a>&nbsp;
+<a href="https://cucumber.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg" alt="Cucumber" width="40"/></a>&nbsp;
 <a href="https://junit.org/junit5/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40"/></a>&nbsp;
 <a href="https://testng.org/doc/"><img src="https://avatars.githubusercontent.com/u/12528662?v=4" alt="TestNG" width="40"/></a>&nbsp;
 <a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Apache Maven" width="40"/></a>
@@ -89,56 +89,56 @@
 
 <h3 align="center">📡 API, Backend Testing & Observability</h3>
 <p align="center">
-<a href="https://postman.com"><img src="https://tse1.mm.bing.net/th?id=OIP.K66TNl9EFGiJ68QlP48hGwHaHa&pid=Api" width="40"/></a>&nbsp;
-<a href="https://www.usebruno.com/"><img src="https://bearsampp.com/images/logo/bruno-logo-transparent.png" width="40"/></a>&nbsp;
-<a href="https://rest-assured.io/"><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" width="40"/></a>&nbsp;
-<a href="https://swagger.io/tools/swagger-ui/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9GlozyrEsA25S68xqsWEgejZkSQPi2L7SBw&s" width="40"/></a>&nbsp;
-<a href="https://www.mysql.com/"><img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" width="40"/></a>&nbsp;
-<a href="https://www.pgadmin.org/"><img src="https://tse3.mm.bing.net/th/id/OIP.Q7VvPa7HsW3m768GDQw7zQHaHa?pid=Api" width="40"/></a>&nbsp;
-<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" width="40"/></a>&nbsp;
-<a href="https://grafana.com/"><img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" width="40"/></a>&nbsp;
-<a href="https://www.splunk.com/"><img src="https://www.ucyfer.com/wp-content/uploads/2023/01/logo-splunk.jpeg" width="40"/></a>
+<a href="https://postman.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40"/></a>&nbsp;
+<a href="https://www.usebruno.com/"><img src="https://raw.githubusercontent.com/usebruno/bruno/main/assets/images/logo-transparent.png" alt="Bruno" width="40"/></a>&nbsp;
+<a href="https://rest-assured.io/"><img src="https://avatars.githubusercontent.com/u/19369327?s=280&v=4" alt="Rest Assured" width="40"/></a>&nbsp;
+<a href="https://swagger.io/tools/swagger-ui/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40"/></a>&nbsp;
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40"/></a>&nbsp;
+<a href="https://www.pgadmin.org/"><img src="https://raw.githubusercontent.com/pgadmin-org/pgadmin4/master/web/pgadmin/static/img/logo-128.png" alt="pgAdmin" width="40"/></a>&nbsp;
+<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40"/></a>&nbsp;
+<a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/></a>&nbsp;
+<a href="https://www.splunk.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="40"/></a>
 </p>
 
 <h3 align="center">♿ Accessibility & UX Testing</h3>
 <p align="center">
-<a href="https://wave.webaim.org/"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" width="40"/></a>&nbsp;
-<a href="https://www.nvaccess.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/NVDA_Logo.png?_=20240225145733" width="40"/></a>
+<a href="https://wave.webaim.org/"><img src="https://www.inclusionhub.com/hubfs/WAVE%20logomark.jpg" alt="WAVE" width="40"/></a>&nbsp;
+<a href="https://www.nvaccess.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/NVDA_Logo.png?_=20240225145733" alt="NVDA" width="40"/></a>
 </p>
 
 <h3 align="center">🤝 Collaboration & DevOps</h3>
 <p align="center">
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
-<a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/></a>&nbsp;
-<a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/></a>&nbsp;
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>&nbsp;
+<a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/></a>&nbsp;
+<a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40"/></a>&nbsp;
 <a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40"/></a>&nbsp;
-<a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="40"/></a>&nbsp;
-<a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" width="40"/></a>&nbsp;
-<a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png" width="40"/></a>&nbsp;
-<a href="https://mattermost.com/"><img src="https://play-lh.googleusercontent.com/jmZcnjbtWkX1l143bqxz2DZqnrVUSJvGikocCb8znsXYJCIJkoZmvJknJn8MQKgMdkw=w240-h480-rw" width="40"/></a>
+<a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40"/></a>&nbsp;
+<a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="Slack" width="40"/></a>&nbsp;
+<a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png" alt="Microsoft Teams" width="40"/></a>&nbsp;
+<a href="https://mattermost.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mattermost/mattermost-original.svg" alt="Mattermost" width="40"/></a>
 </p>
 
 <h3 align="center">📚 Exploring / Learning</h3>
 <p align="center">
-<!-- <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>&nbsp;
-<a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40"/></a>&nbsp; -->
-<a href="https://www.cypress.io"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" width="40"/></a>&nbsp;
-<a href="http://appium.io/docs/en/2.0/"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" width="40"/></a>&nbsp;
-<a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" width="40"/></a>&nbsp;
-<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" width="40"/></a>&nbsp;
+<!-- <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40"/></a>&nbsp;
+<a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40"/></a>&nbsp; -->
+<a href="https://www.cypress.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40"/></a>&nbsp;
+<a href="http://appium.io/docs/en/2.0/"><img src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/overrides/assets/images/appium-logo.png" alt="Appium" width="40"/></a>&nbsp;
+<a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40"/></a>&nbsp;
+<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="Xray" width="40"/></a>&nbsp;
 </p>
 
 <hr>
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-⚡ Discover my GitHub contributions, coding activity, and project stats!
+A snapshot of my public GitHub activity and project work.
 </p>
 
 <p align="center">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cihat-kose&theme=github_dark" alt="Most Used Languages"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=github_dark" alt="GitHub Stats"/>
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihat-kose&theme=github_dark" alt="Profile Details"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cihat-kose&theme=github_dark" alt="Most Used Languages"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cihat-kose&theme=github_dark" alt="GitHub Stats"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cihat-kose&theme=github_dark" alt="Profile Details"/>
 </p>
 
 <hr>
