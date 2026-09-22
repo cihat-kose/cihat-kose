@@ -83,7 +83,7 @@
 <a href="https://www.selenium.dev"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40"/></a>&nbsp;
 <a href="https://cucumber.io/"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" width="40"/></a>&nbsp;
 <a href="https://junit.org/junit5/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40"/></a>&nbsp;
-<a href="https://testng.org/doc/"><img src="https://avatars.githubusercontent.com/u/12528662?v=4" alt="TestNG" width="60"/></a>&nbsp;
+<a href="https://testng.org/doc/"><img src="https://avatars.githubusercontent.com/u/12528662?v=4" alt="TestNG" width="40"/></a>&nbsp;
 <a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Apache Maven" width="40"/></a>
 </p>
 
@@ -106,19 +106,12 @@
 <a href="https://www.nvaccess.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/NVDA_Logo.png?_=20240225145733" width="40"/></a>
 </p>
 
-<h3 align="center">💻 IDE & CI/CD</h3>
-<p align="center">
-<a href="https://code.visualstudio.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="40"/></a>&nbsp;
-<a href="https://www.jetbrains.com/idea/"><img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" width="40"/></a>&nbsp;
-<a href="https://github.com/features/copilot"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ171TqGq21JDajxZwUYBqX9m8zN7SZsMVew&s" width="40"/></a>&nbsp;
-<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40"/></a>
-</p>
-
 <h3 align="center">🤝 Collaboration & DevOps</h3>
 <p align="center">
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
 <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/></a>&nbsp;
 <a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="40"/></a>&nbsp;
+<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40"/></a>&nbsp;
 <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" width="40"/></a>&nbsp;
 <a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" width="40"/></a>&nbsp;
 <a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png" width="40"/></a>&nbsp;
@@ -129,7 +122,6 @@
 <p align="center">
 <!-- <a href="https://spring.io/projects/spring-boot"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/></a>&nbsp;
 <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="40"/></a>&nbsp; -->
-<a href="https://www.postgresql.org/"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40"/></a>&nbsp;
 <a href="https://www.cypress.io"><img src="https://user-images.githubusercontent.com/2801156/153322291-8b186487-5127-48f7-aa6d-b0ef350f8575.png" width="40"/></a>&nbsp;
 <a href="http://appium.io/docs/en/2.0/"><img src="https://e7.pngegg.com/pngimages/372/674/png-clipart-appium-test-automation-software-testing-selenium-calabash-purple-violet-thumbnail.png" width="40"/></a>&nbsp;
 <a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" width="40"/></a>&nbsp;
