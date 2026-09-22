@@ -9,7 +9,7 @@
 
 <hr>
 
-<h2 align="center">🎤 About Me</h2>
+<h2 align="center">⚖️ From Law to Software Quality</h2>
 
 <ul>
 <li>🧑‍💻 <strong>ISTQB® Certified Software QA Engineer</strong> with hands-on testing experience in the Norwegian public sector.</li>
@@ -58,7 +58,7 @@
 
 <hr>
 
-<h2 align="center">🎓 Teaching, Mentoring & Community Involvement</h2>
+<h2 align="center">🧑‍🏫 Teaching & Mentoring</h2>
 
 <ul>
   <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Taught and mentored QA students (Java, Selenium, Agile/Scrum, and more) through real-world testing projects.</li>
@@ -66,14 +66,14 @@
 
 <hr>
 
-<h2 align="center">🏅 Certifications and Badges</h2>
+<h2 align="center">🏅 Certifications & Achievements</h2>
 <p align="center">
 	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank"> <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Certified Tester"/></a>
 	<a href="https://www.hackerrank.com/cihatkose" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Java 5 Star"/></a>
 </p>
 <hr>
 
-<h2 align="center">🛠️ Tools I use for automation, testing, and development.</h2>
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <h3 align="center">🚀 Programming, Test Automation & Frameworks</h3>
 <p align="center">
@@ -151,12 +151,6 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg" width="80%"/>
-</p>
-
-<hr>
-
 <h2 align="center">📬 Let's Connect</h2>
 
 <p align="center">
@@ -169,10 +163,6 @@
 	Let's connect through community, collaboration, or meaningful tech events!
 </p>
 
-
-<hr>
-
-<h2 align="center">Keep coding! 💻 Stay awesome! ✨</h2>
 
 <hr>
 
