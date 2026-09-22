@@ -7,10 +7,6 @@
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<p align="right">
-   <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="cihat-kose" />
-</p>
-
 <hr>
 
 <h2 align="center">🎤 About Me</h2>
@@ -179,3 +175,7 @@
 <h2 align="center">Keep coding! 💻 Stay awesome! ✨</h2>
 
 <hr>
+
+<p align="right">
+   <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="cihat-kose" />
+</p>
