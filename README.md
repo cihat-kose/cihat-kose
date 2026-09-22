@@ -82,9 +82,9 @@
 <a href="https://playwright.dev"><img src="https://playwright.dev/img/playwright-logo.svg" width="40"/></a>&nbsp;
 <a href="https://www.selenium.dev"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" width="40"/></a>&nbsp;
 <a href="https://cucumber.io/"><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_c40984fae76060168e91322094f05421/cucumber.png" width="40"/></a>&nbsp;
-<a href="https://junit.org/junit5/"><img src="https://browserstack.wpengine.com/wp-content/uploads/2024/01/JUnit5-icon.svg" width="40"/></a>&nbsp;
-<a href="https://testng.org/doc/"><img src="https://www.pcloudy.com/wp-content/uploads/2021/03/7.jpg" width="40"/></a>&nbsp;
-<a href="https://maven.apache.org/"><img src="https://e7.pngegg.com/pngimages/968/16/png-clipart-apache-maven-apache-ant-gradle-apache-http-server-apache-ivy-apache-maven-text-orange-thumbnail.png" width="40"/></a>
+<a href="https://junit.org/junit5/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" width="40"/></a>&nbsp;
+<a href="https://testng.org/doc/"><img src="https://avatars.githubusercontent.com/u/12528662?v=4" alt="TestNG" width="60"/></a>&nbsp;
+<a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Apache Maven" width="40"/></a>
 </p>
 
 <h3 align="center">📡 API, Backend Testing & Observability</h3>
