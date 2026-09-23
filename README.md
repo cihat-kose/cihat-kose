@@ -97,7 +97,7 @@
 <a href="https://www.pgadmin.org/"><img src="https://raw.githubusercontent.com/pgadmin-org/pgadmin4/master/web/pgadmin/static/img/logo-128.png" alt="pgAdmin" width="40"/></a>&nbsp;
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40"/></a>&nbsp;
 <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/></a>&nbsp;
-<a href="https://www.splunk.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="40"/></a>
+<a href="https://www.splunk.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="40" style="background-color:#ffffff; border-radius:4px; padding:2px;"/></a>
 </p>
 
 <h3 align="center">♿ Accessibility & UX Testing</h3>
