@@ -3,9 +3,9 @@
   <img src="assets/qa-logo-circle.svg" alt="Cihat Köse QA monogram" width="112" />
 </p>
 <p align="center"><strong>Quality Assurance · Test Automation · Backend Programming</strong></p>
-<div align="center">
+<!-- <div align="center">
 	<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 <hr>
 
