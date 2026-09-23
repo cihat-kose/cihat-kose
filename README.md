@@ -97,7 +97,7 @@
 <a href="https://www.pgadmin.org/"><img src="https://raw.githubusercontent.com/pgadmin-org/pgadmin4/master/web/pgadmin/static/img/logo-128.png" alt="pgAdmin" width="40"/></a>&nbsp;
 <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/"><img src="https://www.jobscoupe.com/wp-content/uploads/2019/08/Java-JDBC.jpg" alt="JDBC" width="40"/></a>&nbsp;
 <a href="https://grafana.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40"/></a>&nbsp;
-<a href="https://www.splunk.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/splunk/splunk-original-wordmark.svg" alt="Splunk" width="40" style="background-color:#ffffff; border-radius:4px; padding:2px;"/></a>
+<a href="https://www.splunk.com/"><img src="https://cdn.simpleicons.org/splunk/65A637" alt="Splunk" width="40"/></a>
 </p>
 
 <h3 align="center">♿ Accessibility & UX Testing</h3>
@@ -115,7 +115,7 @@
 <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40"/></a>&nbsp;
 <a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="Slack" width="40"/></a>&nbsp;
 <a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png" alt="Microsoft Teams" width="40"/></a>&nbsp;
-<a href="https://mattermost.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mattermost/mattermost-original.svg" alt="Mattermost" width="40"/></a>
+<a href="https://mattermost.com/"><img src="https://cdn.simpleicons.org/mattermost/0058CC" alt="Mattermost" width="40"/></a>
 </p>
 
 <h3 align="center">📚 Exploring / Learning</h3>
