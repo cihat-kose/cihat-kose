@@ -157,7 +157,3 @@ A snapshot of my public GitHub activity and project work.
 
 
 <hr>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cihat-kose.cihat-kose&left_text=Profile%20views" alt="Profile views" />
-</p>
