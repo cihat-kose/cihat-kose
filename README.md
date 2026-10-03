@@ -158,6 +158,6 @@ A snapshot of my public GitHub activity and project work.
 
 <hr>
 
-<p align="right">
-   <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
