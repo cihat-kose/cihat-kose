@@ -68,8 +68,8 @@
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
 <p align="center">
-	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank"> <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Foundation Level"/> </a>
-	<a href="https://www.hackerrank.com/cihatkose" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java 5 Star"/> </a>
+	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank"> <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Foundation Level" width="190" height="42"/></a>
+	<a href="https://www.hackerrank.com/cihatkose" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Java 5 Star" width="190" height="42"/></a>
 </p>
 <hr>
 
@@ -159,5 +159,5 @@ A snapshot of my public GitHub activity and project work.
 <hr>
 
 <p align="right">
-   <img src="https://komarev.com/ghpvc/?username=cihat-kose&abbreviated=true" alt="Profile views" />
+   <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile+views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
