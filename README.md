@@ -159,5 +159,5 @@ A snapshot of my public GitHub activity and project work.
 <hr>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cihat-kose.cihat-kose&left_text=Profile%20views" alt="Profile views" />
 </p>
