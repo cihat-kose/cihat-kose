@@ -61,15 +61,15 @@
 <h2 align="center">🧑‍🏫 Teaching & Mentoring</h2>
 
 <ul>
-  <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Taught and mentored QA students (Java, Selenium, Agile/Scrum, and more) through real-world testing projects.</li>
+  <li><strong>QA Instructor & Mentor @ <a href="https://technostudy.com.tr/" target="_blank">Techno Study</a></strong> – Taught and mentored QA students (Java, Selenium, Agile/Scrum, and more)</li>
 </ul>
 
 <hr>
 
 <h2 align="center">🏅 Certifications & Achievements</h2>
 <p align="center">
-	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank"> <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Certified Tester"/></a>
-	<a href="https://www.hackerrank.com/cihatkose" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Hackerrank Java 5 Star"/></a>
+	<a href="https://app.diplomasafe.com/en-US/s/3d17279262ab9607" target="_blank"> <img src="https://img.shields.io/badge/ISTQB-Foundation%20Level-blue?style=for-the-badge&logo=checkmarx&logoColor=white" alt="ISTQB Foundation Level"/> </a>
+	<a href="https://www.hackerrank.com/cihatkose" target="_blank"> <img src="https://img.shields.io/badge/Hackerrank-Java%205%20Star-yellow?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Java 5 Star"/> </a>
 </p>
 <hr>
 
@@ -125,7 +125,7 @@
 <a href="https://www.cypress.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40"/></a>&nbsp;
 <a href="http://appium.io/docs/en/2.0/"><img src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/overrides/assets/images/appium-logo.png" alt="Appium" width="40"/></a>&nbsp;
 <a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40"/></a>&nbsp;
-<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b017/source/60x60bb.jpg" alt="Xray" width="40"/></a>&nbsp;
+<a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/de/96/7dde9601-aeb7-7ce6-9141-d0664014b01" alt="Xray" width="40"/></a>
 </p>
 
 <hr>
@@ -147,8 +147,8 @@ A snapshot of my public GitHub activity and project work.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/cihat-kose/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://www.hackerrank.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://www.postman.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/HACKERRANK-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"></a>
+  <a href="https://www.postman.com/cihatkose" target="_blank"><img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Badge"/></a>
 </p>
 
 <p align="center">
@@ -159,5 +159,5 @@ A snapshot of my public GitHub activity and project work.
 <hr>
 
 <p align="right">
-   <img src="https://komarev.com/ghpvc/?username=cihat-kose&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="cihat-kose" />
+   <img src="https://komarev.com/ghpvc/?username=cihat-kose&abbreviated=true" alt="Profile views" />
 </p>
