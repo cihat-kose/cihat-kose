@@ -111,10 +111,10 @@
 <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40"/></a>&nbsp;
 <a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/></a>&nbsp;
 <a href="https://bitbucket.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" alt="Bitbucket" width="40"/></a>&nbsp;
-<a href="https://www.jenkins.io"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40"/></a>&nbsp;
+<a href="https://www.jenkins.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="background-color: white; border-radius: 6px; padding: 3px;"/></a>&nbsp;
 <a href="https://www.atlassian.com/software/jira"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40"/></a>&nbsp;
 <a href="https://slack.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" alt="Slack" width="40"/></a>&nbsp;
-<a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jim-nielsen.com/ios/512/microsoft-teams-2019-05-31.png" alt="Microsoft Teams" width="40"/></a>&nbsp;
+<a href="https://www.microsoft.com/microsoft-teams"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-teams.svg" alt="Microsoft Teams" width="40"/></a>&nbsp;
 <a href="https://mattermost.com/"><img src="https://cdn.simpleicons.org/mattermost/0058CC" alt="Mattermost" width="40"/></a>
 </p>
 
