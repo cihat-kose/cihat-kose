@@ -124,7 +124,6 @@
 <a href="https://www.docker.com/"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="Docker" width="40"/></a>&nbsp; -->
 <a href="https://www.cypress.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40"/></a>&nbsp;
 <a href="http://appium.io/docs/en/2.0/"><img src="https://raw.githubusercontent.com/appium/appium/master/packages/appium/docs/overrides/assets/images/appium-logo.png" alt="Appium" width="40"/></a>&nbsp;
-<a href="https://locust.io/"><img src="https://locust.io/static/img/favicon.ico" alt="Locust" width="40"/></a>&nbsp;
 <a href="https://marketplace.atlassian.com/apps/1211769/xray-test-management-for-jira"><img src="https://avatars.githubusercontent.com/u/65618195?s=200&v=4" alt="Xray" width="40"/></a>
 </p>
 
